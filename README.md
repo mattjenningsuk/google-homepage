@@ -1,0 +1,1 @@
+In this project I will be recreating the Google Homepage, using what I have learnt so far from the Odin Project. By the end of this project I should be able to articulate the build of a basic webpage.
